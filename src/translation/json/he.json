@@ -1,0 +1,28 @@
+{
+  "deviceGallery": {
+    "pageTitle": "Galerie D'appareils",
+    "addToCartButton": "Ajouter au Chariot",
+    "removeFromCartButton": "Retirer",
+    "priceTitle": "Prix",
+    "clearCartButton": "Vider le Panier",
+    "checkoutButton": "Check-out",
+    "specificErrorHandlerToComponentHeader": "Component with Error",
+    "specificErrorHandlerToComponentBody": "This is handled by error handler with component"
+  },
+  "checkout": {
+    "pageTitle": "Check-out",
+    "totalPriceTitle": "Prix Total"
+  },
+  "products": {
+    "id": "מזהה",
+    "name": "שם",
+    "price": "מחיר",
+    "category": "קטגוריה",
+    "isInStock": "במלאי",
+    "picture": "תמונה",
+    "description": "תאור",
+    "registered": "תאריך",
+    "createProduct": "יצירת פריט",
+    "updateProduct": "עדכון פריט"
+  }
+}
