@@ -89,7 +89,7 @@
     "@types/react-toast-notifications": "2.4.0",
     "@types/redux-form": "8.2.5",
     "@types/seamless-immutable": "7.1.12",
-    "axios": "0.18.1",
+    "axios": "1.6.0",
     "bcryptjs": "2.4.3",
     "bootstrap": "4.4.1",
     "guid": "0.0.12",
